@@ -1,0 +1,59 @@
+# stapi
+System Targered Attack with raspberry Pi.
+
+Stapi son una serie de scripts para autmatizar diversos ataques o acciones desde una raspberry pi.
+El proyecto se ha desarrollado sobre una raspberry pi 3 modelo B, con una de las siguientes imagenes de kali preinstalado:
+
+kali-linux-2018-3-rpi3-nexmon-img-xz
+kali-linux-2018-3-rpi3-img-xz
+
+https://www.offensive-security.com/kali-linux-arm-images/
+
+Documentacion de stapi
+
+https://www.youtube.com/channel/UCNn4iXrlHpq2lhi8bK1FbvA
+
+###########
+
+Instrucciones de instalacion:
+
+cd /root/
+git clone https://github.com/javierbu/stapi.git
+cd stapi
+tar -xf stapi-X.X.X.tar
+cd install
+./install_stapi
+
+#################
+
+Con este script instalamos todas las dependencias necesarias desde los repositorios, ademas instalamos/actualizamos reaver y aircrack-ng
+
+Adcionalmente descargamos e intalamos el proyecto create_ap
+
+https://github.com/oblique/create_ap
+
+Nos ayudaremos de create_ap para algunas de las herramientas.
+
+Tambien se crearan algunas carpetas, se haran copias de seguridad de algunos archivos de configuracion, y se restauraran por otros.
+
+###################
+STAPIZAR
+###############
+
+Stapizando nuestro kali conseguiremos algunas ventajas al usar stapi:
+
+Aviso de ataques en marcha al inicia sesion
+Algunos alias para trabajar mas comodo en consola
+Banner de bienvenida al inicio
+Funcion autocompletar en la consola
+Cambio de color de prompt a amarillo
+Cambio hostmane STAPi
+
+stapizar:
+
+cd /root/install/stapi
+./stapizar
+
+
+
+
