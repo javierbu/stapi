@@ -24,7 +24,7 @@ git clone https://github.com/javierbu/stapi.git
 cd stapi
 tar -xf stapi-X.X.X.tar
 cd install
-./install_stapi
+./install_stapi.sh
 ```
 
 Con este script instalamos todas las dependencias necesarias desde los repositorios, ademas instalamos/actualizamos reaver y aircrack-ng
@@ -55,7 +55,7 @@ stapizar:
 (Desde la caprtela install/)
 ```
 cd stapi
-./stapizar
+./stapizar.sh
 ```
 
 
