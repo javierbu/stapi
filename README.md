@@ -19,13 +19,13 @@ https://www.youtube.com/channel/UCNn4iXrlHpq2lhi8bK1FbvA
 Instrucciones de instalacion:
 ==============================
 ```
-cd /root/
 git clone https://github.com/javierbu/stapi.git
 cd stapi
 tar -xf stapi-X.X.X.tar
 cd install
 ./install_stapi.sh
 ```
+DURANTE EL PROCESO DE INSTALACION DE LAS DEPENDENCIAS, NOS HARAN 3 PREGUNTAS, A LAS QUE RESPONDER ENTER CON LAS OPCIONES POR DEFAULT.
 
 Con este script instalamos todas las dependencias necesarias desde los repositorios, ademas instalamos/actualizamos reaver y aircrack-ng
 
