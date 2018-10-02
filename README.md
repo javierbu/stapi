@@ -1,4 +1,15 @@
 ### stapi
+```
+   _____ _______       _____ _ 
+  / ____|__   __|/\   |  __ (_)  SYSTEM
+ | (___    | |  /  \  | |__) |   TARGETED
+  \___ \   | | / /\ \ |  ___/ |  ATTACK
+  ____) |  | |/ ____ \| |   | |  WITH
+ |_____/   |_/_/    \_\_|   |_|  RASPBERRY Pi
+ ############################################
+     ###### BIENVENIDO A STAPi ########    
+```
+
 STAPi
 ==========
 
@@ -6,7 +17,7 @@ STAPi
 Stapi son una serie de scripts para autmatizar diversos ataques o acciones desde una raspberry pi.
 El proyecto se ha desarrollado sobre una raspberry pi 3 modelo B, con una de las siguientes imagenes de kali preinstalado:
 
-kali-linux-2018-3-rpi3-nexmon-img-xz
+kali-linux-2018-3-rpi3-nexmon-img-xz \
 kali-linux-2018-3-rpi3-img-xz
 
 https://www.offensive-security.com/kali-linux-arm-images/
@@ -44,17 +55,12 @@ Esta accion no es necesaria para que funcionen las herramientas.
 
 Stapizando nuestro kali conseguiremos algunas ventajas al usar stapi:
 
-Aviso de ataques en marcha al inicia sesion
-
-Algunos alias para trabajar mas comodo en consola
-
-Banner de bienvenida al inicio
-
-Funcion autocompletar en la consola
-
-Cambio de color de prompt a amarillo
-
-Cambio hostmane STAPi
+- Aviso de ataques en marcha al inicia sesion \
+- Algunos alias para trabajar mas comodo en consola \
+- Banner de bienvenida al inicio \ 
+- Funcion autocompletar en la consola \
+- Cambio de color de prompt a amarillo \
+- Cambio hostmane STAPi 
 
 stapizar:
 (Desde la caprtela install/)
