@@ -78,6 +78,9 @@ stapizar:
 cd stapi
 ./stapizar.sh
 ```
+Dispositivos wifi usb compatibles con ataque mana STAPI
+=======================================================
+https://github.com/javierbu/stapi/wiki/Dispositivos-compatibles-con-ataque-mana-STAPi
 
 
 
