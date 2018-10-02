@@ -24,7 +24,17 @@ https://www.offensive-security.com/kali-linux-arm-images/
 
 Documentacion de STAPi
 ======================
+- Canal \
 https://www.youtube.com/channel/UCNn4iXrlHpq2lhi8bK1FbvA
+- STAPi en ADN40 porgrama ojo socultos. (tv mexicana) \
+https://www.youtube.com/watch?v=qVDNcJDnCJs&t=1s
+- Stapiando (grabacion de pantalla durante las acciones en el reportaje. Solo musica y comandos.) \
+https://www.youtube.com/watch?v=dWmAYyG3XYc&t=985s
+- Proyecto STAPi \
+https://www.youtube.com/watch?v=00BBBcfRLV4&t=5s
+- STAPi & deby Comprometiendo netbios (solo musica y comandos) \
+https://www.youtube.com/watch?v=huRcoKNzuRY&t=365s
+
 
 
 Instrucciones de instalacion:
