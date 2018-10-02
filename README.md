@@ -55,11 +55,11 @@ Esta accion no es necesaria para que funcionen las herramientas.
 
 Stapizando nuestro kali conseguiremos algunas ventajas al usar stapi:
 
-- Aviso de ataques en marcha al inicia sesion \
-- Algunos alias para trabajar mas comodo en consola \
-- Banner de bienvenida al inicio \ 
-- Funcion autocompletar en la consola \
-- Cambio de color de prompt a amarillo \
+- Aviso de ataques en marcha al inicia sesion 
+- Algunos alias para trabajar mas comodo en consola 
+- Banner de bienvenida al inicio 
+- Funcion autocompletar en la consola 
+- Cambio de color de prompt a amarillo 
 - Cambio hostmane STAPi 
 
 stapizar:
