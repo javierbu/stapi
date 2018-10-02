@@ -21,7 +21,7 @@ Instrucciones de instalacion:
 ```
 git clone https://github.com/javierbu/stapi.git
 cd stapi
-tar -xf stapi-0.0.12.tar
+tar -xf stapi-0.0.13.tar
 cd install
 ./install_stapi.sh
 ```
