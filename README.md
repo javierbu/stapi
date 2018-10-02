@@ -11,7 +11,7 @@ kali-linux-2018-3-rpi3-img-xz
 
 https://www.offensive-security.com/kali-linux-arm-images/
 
-Documentacion de stapi
+Documentacion de STAPi
 ======================
 https://www.youtube.com/channel/UCNn4iXrlHpq2lhi8bK1FbvA
 
