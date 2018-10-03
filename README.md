@@ -1,4 +1,4 @@
-### stapi
+### STAPi
 ```
    _____ _______       _____ _ 
   / ____|__   __|/\   |  __ (_)  SYSTEM
@@ -27,13 +27,13 @@ Documentacion de STAPi
 - Canal \
 https://www.youtube.com/channel/UCNn4iXrlHpq2lhi8bK1FbvA
 - STAPi en ADN40 porgrama ojo socultos. (tv mexicana) \
-https://www.youtube.com/watch?v=qVDNcJDnCJs&t=1s
+https://www.youtube.com/watch?v=qVDNcJDnCJs&t
 - Stapiando (grabacion de pantalla durante las acciones en el reportaje. Solo musica y comandos.) \
-https://www.youtube.com/watch?v=dWmAYyG3XYc&t=985s
+https://www.youtube.com/watch?v=dWmAYyG3XYc&t
 - Proyecto STAPi \
-https://www.youtube.com/watch?v=00BBBcfRLV4&t=5s
+https://www.youtube.com/watch?v=00BBBcfRLV4&t
 - STAPi & deby Comprometiendo netbios (solo musica y comandos) \
-https://www.youtube.com/watch?v=huRcoKNzuRY&t=365s
+https://www.youtube.com/watch?v=huRcoKNzuRY&t
 
 
 
@@ -73,7 +73,7 @@ Stapizando nuestro kali conseguiremos algunas ventajas al usar stapi:
 - Cambio hostmane STAPi 
 
 stapizar:
-(Desde la caprtela install/)
+(Desde la carpeta install/)
 ```
 cd stapi
 ./stapizar.sh
