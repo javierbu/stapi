@@ -26,6 +26,8 @@ Documentacion de STAPi
 ======================
 - Canal \
 https://www.youtube.com/channel/UCNn4iXrlHpq2lhi8bK1FbvA
+- Instalacion \
+https://www.youtube.com/watch?v=zxuyDmJ2qsM&feature=youtu.be 
 - STAPi en ADN40 porgrama ojo socultos. (tv mexicana) \
 https://www.youtube.com/watch?v=qVDNcJDnCJs&t
 - Stapiando (grabacion de pantalla durante las acciones en el reportaje. Solo musica y comandos.) \
