@@ -27,15 +27,17 @@ Documentacion de STAPi
 - Canal \
 https://www.youtube.com/channel/UCNn4iXrlHpq2lhi8bK1FbvA
 - Instalacion \
-https://www.youtube.com/watch?v=zxuyDmJ2qsM&feature=youtu.be 
+https://www.youtube.com/watch?v=zxuyDmJ2qsM 
+- PiTunel (conexion reversa ssh) 1 parte \
+https://www.youtube.com/watch?v=O3aRwEt1XkM
 - STAPi en ADN40 porgrama ojo socultos. (tv mexicana) \
-https://www.youtube.com/watch?v=qVDNcJDnCJs&t
+https://www.youtube.com/watch?v=qVDNcJDnCJs
 - Stapiando (grabacion de pantalla durante las acciones en el reportaje. Solo musica y comandos.) \
-https://www.youtube.com/watch?v=dWmAYyG3XYc&t
+https://www.youtube.com/watch?v=dWmAYyG3XYc
 - Proyecto STAPi \
-https://www.youtube.com/watch?v=00BBBcfRLV4&t
+https://www.youtube.com/watch?v=00BBBcfRLV4
 - STAPi & deby Comprometiendo netbios (solo musica y comandos) \
-https://www.youtube.com/watch?v=huRcoKNzuRY&t
+https://www.youtube.com/watch?v=huRcoKNzuRY
 
 
 
