@@ -28,8 +28,10 @@ Documentacion de STAPi
 https://www.youtube.com/channel/UCNn4iXrlHpq2lhi8bK1FbvA
 - Instalacion \
 https://www.youtube.com/watch?v=zxuyDmJ2qsM 
-- PiTunel (conexion reversa ssh) 1 parte \
+- PiTunel (conexion reversa ssh) 1 parte (red local) \
 https://www.youtube.com/watch?v=O3aRwEt1XkM
+- PiTunel (conexion reversa ssh) 2 parte (Fuera de red local) \
+https://www.youtube.com/watch?v=xFVGuHjLKt4
 - STAPi en ADN40 porgrama ojo socultos. (tv mexicana) \
 https://www.youtube.com/watch?v=qVDNcJDnCJs
 - Stapiando (grabacion de pantalla durante las acciones en el reportaje. Solo musica y comandos.) \
